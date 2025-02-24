@@ -1,19 +1,17 @@
-# Welcome to Nextjs-blog
-
 This is a next-blog app that allows users to create, edit, and publish their own blog posts, as well as browse and comment on other posts. The blog app also features a responsive design, a user authentication system, and a rich text editor. This app is built with Next.js, Tailwind CSS, TypeScript, and MongoDB.
 
-## Technologies Used
+## Technologies being used in project
 
 This project uses the following technologies:
 
-- [Next.js]: A React framework for building fast and scalable web applications.
-- [Tailwind CSS]: A utility-first CSS framework for rapidly building custom designs.
-- [TypeScript]: A superset of JavaScript that adds static types and other features.
-- [MongoDB]: A document-based database that stores data in JSON-like format.
-- [NextAuth.js]: A library for implementing authentication and authorization in Next.js apps.
-- [React Query]: A library for fetching, caching, and updating data in React apps.
-- [React Hook Form]: A library for building forms with React hooks.
-- [Redux toolkit]: A library for managing and centralizing application state.
+- Next.js: A React framework for building fast and scalable web applications.
+- Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+- TypeScript: A superset of JavaScript that adds static types and other features.
+- MongoDB: A document-based database that stores data in JSON-like format.
+- NextAuth.js: A library for implementing authentication and authorization in Next.js apps.
+- React Query: A library for fetching, caching, and updating data in React apps.
+- React Hook Form: A library for building forms with React hooks.
+- Redux toolkit: A library for managing and centralizing application state.
 
 ## Features
 
